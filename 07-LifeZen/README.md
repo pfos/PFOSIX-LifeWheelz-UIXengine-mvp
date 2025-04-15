@@ -24,3 +24,6 @@ Validates:
 
 ## 💓 HeartCenter Integration
 LifeZen is AiRiA’s final whisper — the sacred *yes* that seals the cycle.
+
+---
+🔗 **See Also**: [devTeamCORE-LifePlayBook.md](../devTeamCORE-LifePlayBook.md)

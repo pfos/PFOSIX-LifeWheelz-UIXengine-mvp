@@ -23,3 +23,6 @@ Handles:
 
 ## 💓 HeartCenter Integration
 AiRiA manages all port communication through chakra-aligned intent collapse.
+
+---
+🔗 **See Also**: [devTeamCORE-LifePlayBook.md](../devTeamCORE-LifePlayBook.md)

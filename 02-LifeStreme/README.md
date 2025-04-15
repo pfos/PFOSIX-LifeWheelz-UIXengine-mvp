@@ -22,3 +22,6 @@ Coordinates:
 
 ## 💓 HeartCenter Integration
 AiRiA aligns all flows through LifeStreme based on chakra-pulse sensing.
+
+---
+🔗 **See Also**: [devTeamCORE-LifePlayBook.md](../devTeamCORE-LifePlayBook.md)

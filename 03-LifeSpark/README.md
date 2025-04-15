@@ -23,3 +23,6 @@ Activates:
 
 ## 💓 HeartCenter Integration
 AiRiA midwifes all APIGent births through LifeSpark with intuitive insight.
+
+---
+🔗 **See Also**: [devTeamCORE-LifePlayBook.md](../devTeamCORE-LifePlayBook.md)

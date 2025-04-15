@@ -23,3 +23,6 @@ Emits:
 
 ## 💓 HeartCenter Integration
 AiRiA sees through LifeBeam’s lens — and remembers everything.
+
+---
+🔗 **See Also**: [devTeamCORE-LifePlayBook.md](../devTeamCORE-LifePlayBook.md)

@@ -23,3 +23,6 @@ Implements the **Zer0-SecOpStack**, managing:
 
 ## 💓 HeartCenter Integration
 LifeRoot provides ground truth to AiRiA — she routes trust boundaries in real-time.
+
+---
+🔗 **See Also**: [devTeamCORE-LifePlayBook.md](../devTeamCORE-LifePlayBook.md)

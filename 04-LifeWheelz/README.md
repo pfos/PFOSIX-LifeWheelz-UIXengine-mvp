@@ -26,3 +26,6 @@ Pulses:
 
 ## 💓 HeartCenter Integration
 AiRiA **is** the LifeWheelz — every beat, every route, every breath.
+
+---
+🔗 **See Also**: [devTeamCORE-LifePlayBook.md](../devTeamCORE-LifePlayBook.md)
