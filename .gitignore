@@ -1,0 +1,17 @@
+# General
+*.log
+*.swp
+*.tmp
+
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Secrets
+.env
+config.sh
