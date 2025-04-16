@@ -10,7 +10,7 @@ SCHEMA_FILE = os.path.join(os.path.dirname(__file__), "mirror.yaml")
 
 
 def emit_event(vc_name, event_type, payload):
-    now = datetime.datetime.utcnow().isoformat() + "Z"
+    now = datetime.datetime.now(datetime.timezone.utc).isoformat()
     event = {
         "timestamp": now,
         "chakra": vc_name,
