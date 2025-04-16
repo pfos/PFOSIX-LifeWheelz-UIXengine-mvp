@@ -1,0 +1,19 @@
+# mirror.yaml – Schema for Chakra REC-RAG Events
+event_types:
+  - beam.test
+  - wheelz.route
+  - root.auth
+  - port.interop
+  - spark.agent_birth
+  - streme.flow
+  - zen.ok
+
+chakra_vcs:
+  - 01-LifeRoot
+  - 02-LifeStreme
+  - 03-LifeSpark
+  - 04-LifeWheelz
+  - 05-LifePort
+  - 06-LifeBeam
+  - 07-LifeZen
+
