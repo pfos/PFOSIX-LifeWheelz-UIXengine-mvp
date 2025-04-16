@@ -6,19 +6,24 @@
     flake-utils.url = "github:numtide/flake-utils";
   };
 
-  outputs = { self, nixpkgs, flake-utils }:
+  outputs = { self, nixpkgs, flake-utils, ... }:
     flake-utils.lib.eachDefaultSystem (system:
       let
         pkgs = nixpkgs.legacyPackages.${system};
       in {
         devShells.default = pkgs.mkShell {
-          buildInputs = with pkgs; [
-            python312Full
-            python312Packages.fastapi
-            python312Packages.uvicorn
-            python312Packages.pyyaml
-            python312Packages.gradio
+          name = "pfosix-devshell";
+
+          nativeBuildInputs = with pkgs; [
+            python3
+            python3Packages.gradio
+            python3Packages.fastapi
+            python3Packages.uvicorn
+            gnumake
+            cargo
+            rustc
           ];
+
           shellHook = ''
             echo "💠 PFOSIX DevShell activated!"
           '';
